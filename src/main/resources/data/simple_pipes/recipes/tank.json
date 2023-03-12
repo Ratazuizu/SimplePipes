@@ -4,9 +4,9 @@
         "item": "simple_pipes:tank"
     },
     "pattern": [
-        " G ",
+        "GGG",
         "GBG",
-        " G "
+        "GGG"
     ],
     "key": {
         "G": { "item": "minecraft:glass" },

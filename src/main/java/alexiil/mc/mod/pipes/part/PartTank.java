@@ -52,7 +52,7 @@ public class PartTank extends AbstractPart {
         NET_TANK = NET_ID.subType(PartTank.class, "simple_pipes:tank");
         SMOOTHED_TANK_DATA = NET_TANK.idData("smoothed_tank_data").setReceiver(PartTank::receiveSmoothedTankData);
 
-        SHAPE = VoxelShapes.cuboid(2 / 16.0, 0, 2 / 16.0, 14 / 16.0, 12 / 16.0, 14 / 16.0);
+        SHAPE = VoxelShapes.cuboid(2 / 16.0, 0, 2 / 16.0, 14 / 16.0, 16 / 16.0, 14 / 16.0);
         SINGLE_TANK_CAPACITY = FluidAmount.BUCKET.mul(16);
     }
 

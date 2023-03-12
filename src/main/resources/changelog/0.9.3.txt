@@ -1,5 +1,6 @@
-Changed golden pipe texture, slightly diamond pipe texture.
+Changed golden pipe texture, slightly changed diamond pipe texture.
 Changed diamond pipe looking in hotbar/inventory
 Fixed Tank bottom texture missing
-Changed height (model) of tank same as side texture
-Changed "Simple Gold Item Pipe" name to "Simple Golden Item Pipe"
+Changed height (model) of tank as same as side texture
+Renamed "Simple Gold Item Pipe" to "Simple Golden Item Pipe"
+Changed recipe for Tank 

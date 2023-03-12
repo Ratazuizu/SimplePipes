@@ -3,9 +3,9 @@
     "elements": [
         {
             "from": [2, 0, 2],
-            "to": [14, 12, 14],
+            "to": [14, 16, 14],
             "faces": {
-                "down": {"texture": "#down", "cullface": "down"},
+                "down": {"texture": "#down", "cull face": "down"},
                 "up": {"texture": "#up"},
                 "north": {"texture": "#side"},
                 "south": {"texture": "#side"},

@@ -39,7 +39,7 @@ public class TankPartRenderer implements PartRenderer<PartTank> {
         double y0 = 0.001;
         double z0 = 0.126;
         double x1 = 0.874;
-        double y1 = 0.001 + (12 / 16.0 - 0.002) * forRender.amount / part.fluidInv.tankCapacity_F.asInexactDouble();
+        double y1 = 0.001 + (16 / 16.0 - 0.002) * forRender.amount / part.fluidInv.tankCapacity_F.asInexactDouble();
         double z1 = 0.874;
 
         if (false) {

@@ -4,3 +4,5 @@ Fixed Fluid Tank bottom texture missing
 Changed height (model) of tank as same as side texture
 Renamed "Simple Gold Item Pipe" to "Simple Golden Item Pipe"
 Changed recipe for Fluid Tank 
+
+Working on item tooltips
